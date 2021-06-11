@@ -8,5 +8,6 @@ to run the application you need:
    
 2.install the library pygame:
    'pip install pygame'
+   
 3. run the main file:
    'python3 main.py'
